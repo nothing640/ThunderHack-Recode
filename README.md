@@ -20,18 +20,13 @@
 </div>
 
 
-# Cya 04.04.23 - 9.10.24 project!
-<div align="center">
-<img src="assets/U03-01-20-U12-05-01-14.png">
-</div>
 
 ## Information
 
-- Minecraft version: ```Fabric``` 1.21 (or whatever version's the latest)
-- Default ClickGui keybind - **```P```** (<--- it is not, you should go to the Discord server and ask for the real keybind)
+- Minecraft version: ```Fabric``` 1.21 
+- Default ClickGui keybind - **```P```** 
 - Default prefix - **```@```**
 - Middle click the module to bind it.
-- Be aware Expensive, DoxWare 2.0, gumballoff, Treoderia "Recode", Deluxe Client, and Quick Client are both ratted and renames of this client.
 
 ## Requires these mods:
 
